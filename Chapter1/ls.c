@@ -1,5 +1,5 @@
 #include "include/apue.h"
-#include "include/error.c"
+#include "include/error.h"
 
 #include <dirent.h>
 
